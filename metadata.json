@@ -1,0 +1,6 @@
+{
+  "name": "Standoff 2 Clicker",
+  "description": "Полнофункциональный кликер по вселенной Standoff 2 с кейсами, скинами, рынком и мини-играми.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
